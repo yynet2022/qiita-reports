@@ -6,6 +6,12 @@
 
 ## 修正
 - Node.ja v12終了のため、v2 を v3に修正。
+- Github Actions の読み書きの許可設定。
+リポジトリの Settings から、
+Code and automation > Actions > General を選択し、
+右側一番下にある Workflow permissions の Read and write permissions を選択し、
+Save する。
+
 
 Find more details in:
 
