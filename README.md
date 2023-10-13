@@ -1,11 +1,11 @@
 # Qiita-Sync を使って集めた記事
 
 ```
-![Qiita Sync](https://github.com/<Your-ID>/<Your-Repository>/actions/workflows/qiita_sync_check.yml/badge.svg)
+![Qiita Sync](https://github.com/yynet2022/qiita-reports/actions/workflows/qiita_sync_check.yml/badge.svg)
 ```
 
 ## 修正
-- Node.ja v12終了のため、v2 を v3に修正。
+- Github が Node.ja v12 終了のため、v2 を v3に修正。
 - Github Actions の読み書きの許可設定。
 リポジトリの Settings から、
 Code and automation > Actions > General を選択し、
